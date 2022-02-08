@@ -36,3 +36,8 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGNkMmYwZGUtMjExZi00YmMyL
 
 Rabu, jam 09:00
 https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDdjNmI2ZTUtY2U5MS00YTAyLTgyMDUtMjhiMWE4Y2Y3NzJj%40thread.v2/0?context=%7b%22Tid%22%3a%224bdbbe7d-63df-4e5c-953e-9286316895e6%22%2c%22Oid%22%3a%2297380f83-bf22-442a-8ee3-fbf8f9dc3eb4%22%7d
+
+
+MT Internal kafka 10:30
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWIwZDBiYjctOWFhYS00OGU2LTk5ZmEtYzk5NThiOGFkZjc3%40thread.v2/0?context=%7b%22Tid%22%3a%2210afa0fb-7577-421c-bbab-e9c11ddbe66b%22%2c%22Oid%22%3a%22966dac1b-eba3-4e9c-a96c-6b7e5f27d978%22%7d
+
