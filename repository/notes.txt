@@ -1,0 +1,2 @@
+this split file of repository maven
+extract with .7z and move to folder .m2
